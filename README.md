@@ -5,5 +5,5 @@ This project is the simplest thing I did, surely you wonder why?. What I would l
 I just want to make it clear, that with a few code lines you can do truly functional things. As a result you're not only going to help yourself, but also your teammates.
 
 ![Imagen1](https://github.com/edwromero/Html-CSS-project-3/blob/main/imagenes/Flexbox%20imagen.jpg)
-![Imagen2](https://github.com/edwromero/Html-CSS-project-3/blob/main/imagenes/responsive%20flexbox%20imagen.jpg)
-![Imagen3](https://github.com/edwromero/Html-CSS-project-3/blob/main/imagenes/responsive%20flexbox%20imagen%202.jpg)
+![Imagen2](https://github.com/edwromero/Html-CSS-project-3/blob/main/imagenes/responsive%20flexbox%20imagen%202.jpg)
+![Imagen3](https://github.com/edwromero/Html-CSS-project-3/blob/main/imagenes/responsive%20flexbox%20imagen.jpg)
